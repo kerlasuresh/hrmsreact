@@ -1,0 +1,39 @@
+/* .bg-light.px-5.p-3.align-items-center.row {
+  text-align-last: center;
+} */
+
+.d-flex.align-items-center.col-md-4 {
+  justify-content: center;
+}
+
+.d-flex.align-items-center.col-md-3 {
+  justify-content: center;
+}
+
+.mt-80 {
+  margin-top: 62px;
+}
+
+.global-container {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 9;
+}
+
+.sidebar {
+  position: fixed !important;
+  top: 195px;
+  height: 100vh;
+  left: 0;
+}
+
+.fix {
+  position: fixed;
+  width: 100%;
+  z-index: 9;
+}
+
+.mt-100 {
+  margin-top: 25px;
+}
